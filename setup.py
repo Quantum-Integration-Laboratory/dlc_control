@@ -12,7 +12,7 @@ with open ('readme.md') as f:
 
 
 setup(
-        name ='dlc_control',
+        name ='qil-DlcControl',
         version ='1.0.0',
         author ='Andreas Svela',
         maintainer='Tim Newman',
